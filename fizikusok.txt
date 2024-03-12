@@ -1,0 +1,21 @@
+Fizikus;Felfedezés;Évszám;Fenntarthatósági ágak
+Albert Einstein;Relativitáselmélet;1905;Nem
+Marie Curie;Radioaktivitás;1898;Egészségügy, Környezetvédelem
+Erwin Schrödinger;Schrödinger-egyenlet;1926;Nem
+Richard Feynman;Feynman-diagramok;1948;Nem
+Steven Weinberg;Elektrogyenges kölcsönhatás egységesítése;1979;Nem
+Murray Gell-Mann;Kvarkok elmélete;1964;Nem
+Niels Bohr;Bohr-modell;1913;Nem
+Paul Dirac;Antianyag, Dirac-egyenlet;1928;Nem
+Max Born;Kvantummechanika;1926;Nem
+Richard Feynman;Kvantummechanika, Részecskefizika;1948;Nem
+Peter Higgs;Higgs-bozon;1964;Nem 
+Steven Weinberg;Standard modell;1979;Nem
+Abdus Salam;Gyenge kölcsönhatás, Elektromágneses kölcsönhatás egységesítése;1979;Nem
+James Clerk Maxwell;Maxwell-egyenletek;1865;Nem
+Werner Heisenberg;Heisenberg-elv, Heisenberg-egyenlőtlenség;1925;Nem
+Max Planck;Kvantummechanika;1900;Nem
+Galileo Galilei;Kísérleti fizika, Csillagászat;1500;Nem
+Isaac Newton;Gravitációs elmélet, Alkalmazott matematika;1600;Nem
+Enrico Fermi;Atomenergia, Nukleáris fizika;1900;Nem
+Chen-Ning Yang és Tsung-Dao Lee;Paritás megfordítása;1957;Nem
